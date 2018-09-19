@@ -7,7 +7,7 @@ h1 {
   color: white;
   font-size: 50px;
   font-weight: normal;
-  
+
 }
 
 h2 {
@@ -28,4 +28,8 @@ p {
 
 #copywright {
   text-align: right;
+}
+
+a:visited {
+  color: aquamarine;
 }
