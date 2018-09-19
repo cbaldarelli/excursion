@@ -18,3 +18,12 @@ p {
   font-size: 21px;
   color: gray;
 }
+
+.link {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+#copywright {
+  text-align: right;
+}
